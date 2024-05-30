@@ -1,4 +1,4 @@
-# Collecting Current Weather data via OpenWeatherMap API
+# Collecting Current Weather Data via OpenWeatherMap API
 ## Introduction
 This program connects to the OpenWeatherMap API to gather the current weather of the inputted location.
 
