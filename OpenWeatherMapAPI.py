@@ -2,7 +2,7 @@
 # Changes Made: initial base code
 # Date of Change: 2/15/2022
 # Author: Trevor Maxwell
-# Change Approved By: Professor Michael Eller
+# Change Approved By: Trevor Maxwell
 # Date Moved to Production: 3/04/2023
 
 import json
